@@ -43,7 +43,7 @@ Given below are my contributions to the project:
   * Developer Guide:
     * Updated the class diagrams for the `Model` and `Storage` components [\#291](https://github.com/AY2021S1-CS2103T-T11-2/tp/pull/291)
     * Added implementation details for the `add-event` feature: [\#110](https://github.com/AY2021S1-CS2103T-T11-2/tp/pull/110)
-
+ 
 * **Community**:
   * PRs reviewed (with non-trivial review comments): [\#67](https://github.com/AY2021S1-CS2103T-T11-2/tp/pull/67), [\#126](https://github.com/AY2021S1-CS2103T-T11-2/tp/pull/126)
   * Reported bugs and gave suggestions for other teams in the class (example: [#6](https://github.com/lowjiefeng1998/ped/issues/6))
